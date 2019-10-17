@@ -1,4 +1,4 @@
-# Trabalho-de-Java-
+# Trabalho-de-Java
 Um simples repositório Java - com objetivo de aprendizagem de Java básico.
 
 
